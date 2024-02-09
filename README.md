@@ -96,3 +96,8 @@ Now all the items are ready and you can train and test it based on the [General 
 
 ![d41b9bcf-9cd2-4478-9654-e16cc03a8e9a](https://github.com/SMSajadi99/Custom-Data-YOLOv8-Person-Detection/blob/main/Result_YOLOv8/000067.jpg)
 
+
+
+https://github.com/SMSajadi99/Custom-Data-YOLOv8-Person-Detection/assets/69210109/94a7a911-1696-444b-952f-74641b06bb6b
+
+
