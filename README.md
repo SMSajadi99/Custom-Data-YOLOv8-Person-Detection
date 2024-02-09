@@ -99,5 +99,4 @@ Now all the items are ready and you can train and test it based on the [General 
 
 
 
-https://github.com/SMSajadi99/Custom-Data-YOLOv8-Face-Detection/assets/69210109/17135728-1740-4394-8d89-92fa5a8be01a
-
+https://github.com/SMSajadi99/Custom-Data-YOLOv8-Person-Detection/blob/main/Result_YOLOv8/Person-Detection.mp4
