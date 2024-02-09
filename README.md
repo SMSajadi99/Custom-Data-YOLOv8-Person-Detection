@@ -88,7 +88,7 @@ val: images/valid
 
 #Classes
 names:
- 0: face
+ 0: Person
 ```
 Now all the items are ready and you can train and test it based on the [General process](https://github.com/SMSajadi99/Custom-Data-YOLOv8-Face-Detection#general-process) section.
 
