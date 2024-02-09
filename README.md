@@ -19,7 +19,7 @@ git clone https://github.com/SMSajadi99/Custom-Data-YOLOv8-Person-Detection.git
 ### Start Training
 You can start training YOLOv8 on custom data by using mentioned command below in the terminal/(command prompt).
 ```python
-yolo task=detect mode=train model=yolov8n.pt data=custom.yaml epochs=3 imgsz=640
+yolo task=detect mode=train model=yolov8n.pt data=custom.yaml epochs=25 imgsz=640
 ```
 * `task` = detect (It can be segment or classify)
 
@@ -27,7 +27,7 @@ yolo task=detect mode=train model=yolov8n.pt data=custom.yaml epochs=3 imgsz=640
 
 * `model` = yolov8n.pt (It can yolov8s/yolov8l/yolov8x)
 
-* `epochs` = 3 (It can be any number)
+* `epochs` = 25 (It can be any number)
 
 * `imgsz` = 640 (It can be 320, 416, etc, but make sure it needs to be a multiple of 32)
 
