@@ -2,7 +2,7 @@
 In this project, we are going to have a simulation about face recognition.
 The whole structure is divided into 3 parts:
 * [The general process of working with Yolo version 8](https://github.com/SMSajadi99/Custom-Data-YOLOv8-Face-Detection#general-process)
-* [Working online](https://github.com/SMSajadi99/Custom-Data-YOLOv8-Person-Detection/blob/main/README.md#working-online)
+* [Working online](https://github.com/SMSajadi99/Custom-Data-YOLOv8-Person-Detection#working-online)
 * [Results](https://github.com/SMSajadi99/Custom-Data-YOLOv8-Person-Detection#working-online)
 
 ## General process
