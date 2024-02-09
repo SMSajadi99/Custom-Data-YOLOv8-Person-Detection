@@ -1,9 +1,8 @@
 # Getting Started
 In this project, we are going to have a simulation about face recognition.
-The whole structure is divided into 4 parts:
+The whole structure is divided into 3 parts:
 * [The general process of working with Yolo version 8](https://github.com/SMSajadi99/Custom-Data-YOLOv8-Face-Detection#general-process)
 * [Working online](https://github.com/SMSajadi99/Custom-Data-YOLOv8-Face-Detection#working-online)
-* [Working offline and preparing the dataset from scratch](https://github.com/SMSajadi99/Custom-Data-YOLOv8-Face-Detection#working-offline)
 * [Results](https://github.com/SMSajadi99/Custom-Data-YOLOv8-Face-Detection#result)
 
 ## General process
@@ -46,7 +45,7 @@ or
 yolo task=detect mode=predict model="runs/train/exp/weights/best.pt" source="test.mp4"
 ```
 ## Working online
-To work online, open this [code](https://github.com/SMSajadi99/Custom-Data-YOLOv8-Face-Detection/blob/main/Custom_Data_YOLOv8.ipynb) and execute it based on the first part.
+To work online, open this [code](https://github.com/SMSajadi99/Custom-Data-YOLOv8-Person-Detection/blob/main/Custom_Data_YOLOv8.ipynb) and execute it based on the first part.
 
 ## Working offline
 To prepare the data, you must download the data from the following [site](http://shuoyang1213.me/WIDERFACE/) and place it in a folder like the following structure:
