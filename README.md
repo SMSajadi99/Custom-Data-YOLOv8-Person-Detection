@@ -48,20 +48,6 @@ yolo task=detect mode=predict model="runs/train/exp/weights/best.pt" source="tes
 To work online, open this [code](https://github.com/SMSajadi99/Custom-Data-YOLOv8-Person-Detection/blob/main/Custom_Data_YOLOv8.ipynb) and execute it based on the first part.
 
 ## Working offline
-To prepare the data, you must download the data from the following [site](http://shuoyang1213.me/WIDERFACE/) and place it in a folder like the following structure:
-
-```python
-└── Dataset_Orginal
-    ├── wider_face_split.zip
-    ├── WIDER_test.zip
-    ├── WIDER_train.zip
-    └── WIDER_val.zip
-```
-Now `unzip` them and with this [code](https://github.com/SMSajadi99/Custom-Data-YOLOv8-Face-Detection/blob/main/Prapertion.py) that you have at your disposal, you can have the structure to start training. Run the following code:
-
-```python
-python Prapertion.py
-```
 
 ### Folder structure:
 After running the following code, the folder structure should be as follows: (It is clear that 3 folders train, valid and test are important.)
