@@ -94,7 +94,7 @@ Now all the items are ready and you can train and test it based on the [General 
 
 ## Result
 
-![d41b9bcf-9cd2-4478-9654-e16cc03a8e9a](https://github.com/SMSajadi99/Custom-Data-YOLOv8-Face-Detection/assets/69210109/f938b18a-f4b4-4629-81e9-bdbadf48a73f)
+![d41b9bcf-9cd2-4478-9654-e16cc03a8e9a](https://github.com/SMSajadi99/Custom-Data-YOLOv8-Person-Detection/blob/main/Result_YOLOv8/000067.jpg)
 
 
 
