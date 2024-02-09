@@ -14,7 +14,7 @@ pip install ultralytics
 ### Preparation
 By cloning the data, we can have the overall structure, we can prepare this item with the following command: (of course, we will tell another method for preparation in the last part)
 ```python
-git clone https://github.com/SMSajadi99/Custom-Data-YOLOv8-Face-Detection.git
+git clone https://github.com/SMSajadi99/Custom-Data-YOLOv8-Person-Detection.git
 ```
 ### Start Training
 You can start training YOLOv8 on custom data by using mentioned command below in the terminal/(command prompt).
