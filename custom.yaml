@@ -1,7 +1,7 @@
 path:  /home/sajadi/anaconda3/envs/YOLOv8/yolov8/
 train: images/train
 test: images/test
-#val: images/valid
+val: images/valid
 
 #Classes
 names:
